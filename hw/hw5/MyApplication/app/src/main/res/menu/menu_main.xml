@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/menuImport"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="Import"/>
+    <item
+        android:id="@+id/menuExport"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:title="Export"/>
+
+    <item
+        android:id="@+id/menuAdd"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        android:title="Add"/>
+
+</menu>

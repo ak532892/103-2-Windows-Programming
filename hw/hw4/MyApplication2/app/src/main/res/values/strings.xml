@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="money_array">
+        <item>請選擇國家</item>
+        <item>人民幣 (CNY)</item>
+        <item>日圓 (JPY)</item>
+        <item>美元 (USD)</item>
+        <item>英鎊 (GBP)</item>
+        <item>港幣 (HKD)</item>
+        <item>瑞士法郎 (CHF)</item>
+        <item>歐元 (EUR)</item>
+        <item>澳元 (AUD)</item>
+    </string-array>
+    <string-array name="money_array0">
+        <item>台灣 (TW)</item>
+        <item>人民幣 (CNY)</item>
+        <item>美元 (USD)</item>
+    </string-array>
+</resources>
