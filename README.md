@@ -1,2 +1,6 @@
-<h1>103-2-Windows-Programming</h1>
-<h2>Homework</h2>
+# hw-windows-programming
+
+* Course - [Windows Programming 103-2](http://selquery.ttu.edu.tw/Main/syllabusview.php?SbjNo=I3450)
+* java
+
+## Homework ##
